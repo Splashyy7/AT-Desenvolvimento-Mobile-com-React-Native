@@ -1,0 +1,1 @@
+A aplicação consiste em um protótipo de um aplicativo de pedidos de alimento, ele tem uma interface simples e intuitiva.
